@@ -35,3 +35,8 @@ input {
   display: flex;
   justify-content: center;
 }
+
+#Contact-btn {
+  display: flex;
+  justify-content: center;
+}
