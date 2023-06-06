@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a react portfolio made by George Holst. It shows off how my skills i know in react.
+This is a react portfolio made by George Holst. It shows off my skills i know in react. It also lets anyone who wants to get in contact with me many ways to do so.
 
 ## Table of Contents 
 
@@ -16,6 +16,8 @@ When you first open the app it takes you to the About Me page that gives a short
 
 ## Credits
 Made by George Holst. github: https://gethub.com/Geholst
+
+
 
 ## License
 MIT license
