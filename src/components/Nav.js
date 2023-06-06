@@ -9,9 +9,9 @@ export default function Nav(){
         </button>
         <div class="navbar" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-item nav-link" href="/">Home<span class="sr-only"></span></a>
-            <a class="nav-item nav-link" href="/AboutMe">About Me</a>
+            <a class="nav-item nav-link" href="/">About Me<span class="sr-only"></span></a>
             <a class="nav-item nav-link" href="/Projects">Projects</a>
+            <a class="nav-item nav-link" href="/Contact">Contact</a>
             <a class="nav-item nav-link" href="/Resume">Resume</a>
           </div>
         </div>
