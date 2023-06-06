@@ -17,7 +17,5 @@ When you first open the app it takes you to the About Me page that gives a short
 ## Credits
 Made by George Holst. github: https://gethub.com/Geholst
 
-
-
 ## License
 MIT license
