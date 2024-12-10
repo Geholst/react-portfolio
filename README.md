@@ -15,7 +15,9 @@ This is a react portfolio made by George Holst. It shows off my skills i know in
 When you first open the app it takes you to the About Me page that gives a short introduction to me. There is also a navbar at the top that can take you to my projects, how to contact me, and my resume. It also hs a footer that links to my github, email, and my linkedin pages. 
 
 ## Credits
-Made by George Holst. github: https://gethub.com/Geholst
+Made by George Holst. github: https://gethub.com/Geholst 
+
+Deployed App: https://george-react-portfolio.netlify.app/
 
 ## License
 MIT license
